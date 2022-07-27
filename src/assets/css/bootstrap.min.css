@@ -5609,7 +5609,7 @@ fieldset:disabled .btn {
 }
 
 .page-item:not(:first-child) .page-link {
-  margin-left: calc($pagination-border-width * -1);
+  /* margin-left: calc($pagination-border-width * -1); */
 }
 
 .page-item:first-child .page-link {
